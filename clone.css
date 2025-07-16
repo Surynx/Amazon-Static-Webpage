@@ -198,15 +198,40 @@ span
     background-size: cover;
 }
 /* footer */
-.foot-panel
+.footer
+{
+    margin-top: 20px;
+}
+.foot-panel1
 {
     height: 49px;
-    background-color: #222f3d;
+    background-color: #37475a;
     display: flex;
     align-items: center;
     justify-content: center;
      font-family: Arial;
     color: #ffffff;
-    font-size: 12px;
+    font-size: 0.85rem;
     
 }
+.foot-panel2
+{
+    background-color:#222f3d;
+    height: 250px;
+    color: #dddddd;
+    display: flex;
+    justify-content: space-evenly;
+}
+ul a
+{
+    display: block;
+    padding-top: 15px;
+}
+.foot-panel3
+{
+    height: 70px;
+    background-color: #222f3d;
+    color: #dddddd;
+    border-top:2px solid white ;
+}
+
