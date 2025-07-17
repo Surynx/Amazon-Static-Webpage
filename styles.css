@@ -232,6 +232,13 @@ ul a
     height: 70px;
     background-color: #222f3d;
     color: #dddddd;
-    border-top:2px solid white ;
+    border-top:1px solid  #dddddd;
+}
+.panel3-logo
+{
+    height: 57px;
+    width: 109px;
+    background-image: url("resource/amazon_logo.png");
+    background-size: contain;
 }
 
